@@ -8,4 +8,5 @@ print(f'Guten Tag {n}!')
 
 x = datetime.datetime.now()
 print(x)
+print("*******************")
 
