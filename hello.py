@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 # meine Hello-Programm
+# (c)min.liu@bulme.at
+
 import datetime
 
 print("Guten Start ins neue Schuljahr! ")
